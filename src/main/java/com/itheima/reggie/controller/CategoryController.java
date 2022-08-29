@@ -78,6 +78,6 @@ public class CategoryController {
 
         categoryService.updateById(category);
 
-        return R.success("修改分类信息成功");
+        return R.success("修改分类信息1成功");
     }
 }
